@@ -1,8 +1,5 @@
-# Activity313
+# Activity 313
 
-* Utilize this read me to showcase the project.
-* Be sure to read and use the markdown here:
-[MarkDown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * Upload screenshots of the code result
 ![alt text][logo]
 * Write a description of what the program does, who is it for?
