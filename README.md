@@ -1,10 +1,15 @@
 # Activity 313
 
-* Upload screenshots of the code result
-![alt text][logo]
-* Write a description of what the program does, who is it for?
+## ITERATION ONE
+![alt text][iter one]
+In this first iteration, the user can choose between chicken, beef, and tofu while being able to see the different prices for the sandwiches. The program then returns the user's sandwich choice as to not be at fault for a mistake in the order.
+
+
+
+
+* This program is meant to replicate the procedure in which anyone would **order food from a combo menu at a restaurant**. This product can be used by anyone who wants to eat at a restaurant and get a combo meal.
 ---
 
-[logo]: https://github.com/BaeztheProg/Activity313/blob/main/images/EmeraldHS_NEWCircleMark.jpg "EHS Logo"
+[iter one]: https://github.com/rooftheus/Activity313/blob/main/images/Screenshot%202024-02-01%20125835.png "Iteration 1"
 
 
