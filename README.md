@@ -20,6 +20,7 @@ The code for iteration three is relatively similar to the second iteration, with
 
 ## FINAL ITERATION
 ![Final Iteration Output][fin iter]
+
 **The code can found in final-iteration.py on the main branch**
 
 The code for final iteration is very close to the code of iteration three. The code first asks the user to input how many ketchup packets they want. Afterwards, the program wraps up the work done before by displaying the order and total cost, as well as adding other features such as subtracting a dollar from the cost if the user ordered a sandwich, drink, and fries. 
